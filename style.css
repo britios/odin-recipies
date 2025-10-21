@@ -1,0 +1,28 @@
+.title{
+    text-align: center;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+    display:inline-block;
+    border-radius: 10px;
+    border-width: thick;
+    border-style: dotted;
+    border-color: coral;
+    
+
+}
+.list{
+    text-align:center;
+}
+li{
+    display:inline-block;
+    margin:0 15px;
+}
+li a{
+    background-color: bisque;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+}
