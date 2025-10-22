@@ -1,0 +1,22 @@
+img{
+    border-width: thick;
+    border-radius: 40px;
+    border-style:dotted;
+    border-color:coral;
+    display: block;
+    margin:0 auto
+}
+a{
+    text-decoration: none;
+    color:black
+}
+h1,h2{
+    text-align: center;
+    color: coral;
+}
+body{
+    background-color: beige;
+}
+.pone{
+    text-align: center;
+}
